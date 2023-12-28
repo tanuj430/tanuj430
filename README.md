@@ -3,7 +3,8 @@
 
 <p>Welcome to my profile :)</p>
 
-<img src="https://github.com/pawan-wao/pawan-wao/assets/119276655/be65e2cd-89f4-4e54-b525-40eada7ff24c" alt="tkthao219-bubududu" width="200" height="180">
+
+<img src="https://github.com/tanuj430/tanuj430/assets/71175428/02fce667-5092-4d16-84bb-b77fd6a20d9a" alt="tkthao219-bubududu" width="200" height="180">
 <br>
 
 </br>
